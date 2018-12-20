@@ -1,2 +1,2 @@
-# dmdllc.github.io
-This is the github-hosted website for DIRA Market Dynamics LLC
+# diramarketdynamics.com
+This is the website for DIRA Market Dynamics LLC
